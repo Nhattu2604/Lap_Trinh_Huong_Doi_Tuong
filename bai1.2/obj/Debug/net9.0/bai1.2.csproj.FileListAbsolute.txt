@@ -1,0 +1,15 @@
+D:\huongdoituong\bai1.2\bin\Debug\net9.0\bai1.2.exe
+D:\huongdoituong\bai1.2\bin\Debug\net9.0\bai1.2.deps.json
+D:\huongdoituong\bai1.2\bin\Debug\net9.0\bai1.2.runtimeconfig.json
+D:\huongdoituong\bai1.2\bin\Debug\net9.0\bai1.2.dll
+D:\huongdoituong\bai1.2\bin\Debug\net9.0\bai1.2.pdb
+D:\huongdoituong\bai1.2\obj\Debug\net9.0\bai1.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\huongdoituong\bai1.2\obj\Debug\net9.0\bai1.2.AssemblyInfoInputs.cache
+D:\huongdoituong\bai1.2\obj\Debug\net9.0\bai1.2.AssemblyInfo.cs
+D:\huongdoituong\bai1.2\obj\Debug\net9.0\bai1.2.csproj.CoreCompileInputs.cache
+D:\huongdoituong\bai1.2\obj\Debug\net9.0\bai1.2.sourcelink.json
+D:\huongdoituong\bai1.2\obj\Debug\net9.0\bai1.2.dll
+D:\huongdoituong\bai1.2\obj\Debug\net9.0\refint\bai1.2.dll
+D:\huongdoituong\bai1.2\obj\Debug\net9.0\bai1.2.pdb
+D:\huongdoituong\bai1.2\obj\Debug\net9.0\bai1.2.genruntimeconfig.cache
+D:\huongdoituong\bai1.2\obj\Debug\net9.0\ref\bai1.2.dll
